@@ -1,0 +1,10 @@
+Package: bfd
+Version: 1.2.1-alpha1
+Section: base
+Priority: optional
+Architecture: all
+Depends: 
+Maintainer: James B <james@doubtlesshouse.org.uk>
+Description: Brute Force Detection script
+ Searches logs to detect a brute force attempt to login to SSH or other service.
+ Can then add a ryle to iptables to igore the offending host (or any other action you configure)

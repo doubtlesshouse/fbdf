@@ -1,0 +1,17 @@
+/etc/bfd/alert.bfd
+/etc/bfd/conf.bfd
+/etc/bfd/exclude.files
+/etc/bfd/ignore.hosts
+/etc/cron.d/bfd
+/etc/cron.daily/bfd.daily
+/etc/bfd/rules-available/courier
+/etc/bfd/rules-available/cpanel
+/etc/bfd/rules-available/exim
+/etc/bfd/rules-available/proftpd
+/etc/bfd/rules-available/pure-ftpd
+/etc/bfd/rules-available/rh_imapd
+/etc/bfd/rules-available/rh_ipop3d
+/etc/bfd/rules-available/sendmail
+/etc/bfd/rules-available/sshd
+/etc/bfd/rules-available/vpopmail
+
